@@ -1,7 +1,7 @@
-# zebra
+# hqzh
 
 ```js
-   yarn add zebra
-   import {sum} from 'zebra'
+   yarn add hqzh
+   import {sum} from 'hqzh'
    sum(1,1)
 ```
