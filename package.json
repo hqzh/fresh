@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,8 @@
   "homepage": "https://github.com/hqzh/fresh#readme",
   "devDependencies": {
     "@types/node": "^14.0.22",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
     "typescript": "^3.9.6"
   }
 }
