@@ -1,4 +1,4 @@
-# fresh
+# zebra
 
 ```js
    yarn add zebra

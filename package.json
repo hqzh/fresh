@@ -1,5 +1,5 @@
 {
-  "name": "fresh",
+  "name": "zebra",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hqzh/fresh.git"
+    "url": "git+https://github.com/hqzh/zebra.git"
   },
   "keywords": [],
   "author": "hqzh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hqzh/fresh/issues"
+    "url": "https://github.com/hqzh/zebra/issues"
   },
-  "homepage": "https://github.com/hqzh/fresh#readme",
+  "homepage": "https://github.com/hqzh/zebra#readme",
   "devDependencies": {
     "@types/node": "^14.0.22",
     "chai": "^4.2.0",
